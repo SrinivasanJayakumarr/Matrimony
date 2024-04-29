@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Matrimony</string>
+
+    <!--HomeScreen-->
+    <string name="home_screen_title">My Matches</string>
+    <string name="gesture_screen_title">Daily Recommendations</string>
+    <string name="profile_details_screen_title">Profile </string>
+
+</resources>
